@@ -12,6 +12,8 @@ Welcome to my GitHub profile!
 * **Python:** Scripting, data handling, and backend logic.
 * **SQL:** Database queries and data management.
 * **HTML & CSS:** Structuring and styling responsive web layouts.
+
+
 [![My Skills](https://skillicons.dev/icons?i=py,mysql,html,css)](https://skillicons.dev)
 ---
 
