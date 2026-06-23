@@ -1,4 +1,4 @@
-# Hi there, I'm a Developer & Student 👋
+# Hi there 👋
 
 Welcome to my GitHub profile!
 
