@@ -14,7 +14,7 @@ Welcome to my GitHub profile!
 * **HTML & CSS:** Structuring and styling responsive web layouts.
 
 
-[![My Skills](https://skillicons.dev/icons?i=py,mysql,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,mysql,html,css,c,cpp)](https://skillicons.dev)
 ---
 
 ### 📫 Let's Connect
