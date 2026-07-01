@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 ### 👨‍💻 About Me
 
-* 🎓 **Currently learning:** Advanced Python data manipulation, database management with SQL, and sharpening my web development skills.
+* 🎓 **Currently learning:** C and C++, database management with SQL, and sharpening my web development skills.
 
 ### 🛠️ Tech Stack
 
