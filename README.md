@@ -13,8 +13,12 @@ Welcome to my GitHub profile!
 * **SQL:** Database queries and data management.
 * **HTML & CSS:** Structuring and styling responsive web layouts.
 
-
 [![My Skills](https://skillicons.dev/icons?i=py,mysql,html,css,c,cpp)](https://skillicons.dev)
+
+**Deployment Tools**
+
+[![My Skills](https://skillicons.dev/icons?i=git,docker)](https://skillicons.dev)
+
 ---
 
 ### 📫 Let's Connect
